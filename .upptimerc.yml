@@ -9,7 +9,7 @@ sites:
   - name: Jeff Utter
     url: https://jeffutter.com/
   - name: POSCG
-    url: $POSCG
+    url: $SECRET_SITE_1
     
 assignees:
   - jeffutter
