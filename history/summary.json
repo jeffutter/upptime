@@ -1,42 +1,26 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
-    "status": "up",
-    "uptime": "99.99%",
-    "time": 87
-  },
-  {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "Judith Utter",
+    "url": "https://judithutter.com",
+    "slug": "judith-utter",
     "status": "up",
     "uptime": "100.00%",
-    "time": 122
+    "time": 621
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
+    "name": "Jeff Utter",
+    "url": "https://jeffutter.com/",
+    "slug": "jeff-utter",
     "status": "up",
-    "uptime": "99.83%",
-    "time": 349
+    "uptime": "100.00%",
+    "time": 455
   },
   {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
+    "name": "POSCG",
+    "url": "$POSCG",
+    "slug": "poscg",
     "status": "down",
-    "uptime": "0.00%",
+    "uptime": "12.90%",
     "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
-    "status": "up",
-    "uptime": "99.98%",
-    "time": 48
   }
 ]
