@@ -7,9 +7,11 @@ sites:
   - name: Judith Utter
     url: https://judithutter.com
   - name: Jeff Utter
-    url: https://jeffutter.com/
+    url: https://jeffutter.com
   - name: POSCG
     url: $SECRET_SITE_1
+  - name: How Long Have I Been Married
+    url: https://howlonghaveibeenmarried.com
     
 assignees:
   - jeffutter
