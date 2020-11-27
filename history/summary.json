@@ -5,7 +5,7 @@
     "slug": "judith-utter",
     "status": "up",
     "uptime": "100.00%",
-    "time": 621
+    "time": 829
   },
   {
     "name": "Jeff Utter",
@@ -13,14 +13,14 @@
     "slug": "jeff-utter",
     "status": "up",
     "uptime": "100.00%",
-    "time": 455
+    "time": 334
   },
   {
     "name": "POSCG",
-    "url": "$POSCG",
+    "url": "$SECRET_SITE_1",
     "slug": "poscg",
-    "status": "down",
-    "uptime": "10.70%",
-    "time": 0
+    "status": "up",
+    "uptime": "0.55%",
+    "time": 142
   }
 ]
