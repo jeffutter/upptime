@@ -3,9 +3,9 @@
     "name": "Judith Utter",
     "url": "https://judithutter.com",
     "slug": "judith-utter",
-    "status": "down",
-    "uptime": "99.99%",
-    "time": 547
+    "status": "up",
+    "uptime": "98.06%",
+    "time": 595
   },
   {
     "name": "Jeff Utter",
@@ -20,7 +20,7 @@
     "url": "$SECRET_SITE_1",
     "slug": "poscg",
     "status": "up",
-    "uptime": "98.21%",
+    "uptime": "98.24%",
     "time": 263
   },
   {
