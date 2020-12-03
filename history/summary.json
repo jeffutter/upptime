@@ -4,8 +4,8 @@
     "url": "https://judithutter.com",
     "slug": "judith-utter",
     "status": "up",
-    "uptime": "99.68%",
-    "time": 697
+    "uptime": "99.74%",
+    "time": 699
   },
   {
     "name": "Jeff Utter",
@@ -13,15 +13,15 @@
     "slug": "jeff-utter",
     "status": "up",
     "uptime": "100.00%",
-    "time": 343
+    "time": 368
   },
   {
     "name": "POSCG",
     "url": "$SECRET_SITE_1",
     "slug": "poscg",
     "status": "up",
-    "uptime": "99.71%",
-    "time": 254
+    "uptime": "99.76%",
+    "time": 245
   },
   {
     "name": "How Long Have I Been Married",
@@ -29,6 +29,6 @@
     "slug": "how-long-have-i-been-married",
     "status": "up",
     "uptime": "100.00%",
-    "time": 358
+    "time": 320
   }
 ]
