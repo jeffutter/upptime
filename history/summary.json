@@ -2,22 +2,27 @@
   {
     "name": "Judith Utter",
     "url": "https://judithutter.com",
+    "icon": "https://favicons.githubusercontent.com/judithutter.com",
     "slug": "judith-utter",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 782,
-    "timeDay": 857,
-    "timeWeek": 791,
-    "timeMonth": 782,
-    "timeYear": 782
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 764,
+    "timeDay": 475,
+    "timeWeek": 755,
+    "timeMonth": 764,
+    "timeYear": 764,
+    "dailyMinutesDown": {
+      "2020-11-28": 20
+    }
   },
   {
     "name": "Jeff Utter",
     "url": "https://jeffutter.com",
+    "icon": "https://favicons.githubusercontent.com/jeffutter.com",
     "slug": "jeff-utter",
     "status": "up",
     "uptime": "100.00%",
@@ -25,31 +30,37 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 317,
-    "timeDay": 231,
-    "timeWeek": 288,
-    "timeMonth": 317,
-    "timeYear": 317
+    "time": 312,
+    "timeDay": 235,
+    "timeWeek": 240,
+    "timeMonth": 312,
+    "timeYear": 312,
+    "dailyMinutesDown": {}
   },
   {
     "name": "POSCG",
     "url": "$SECRET_SITE_1",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "poscg",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 298,
-    "timeDay": 478,
-    "timeWeek": 305,
-    "timeMonth": 298,
-    "timeYear": 298
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 316,
+    "timeDay": 566,
+    "timeWeek": 361,
+    "timeMonth": 316,
+    "timeYear": 316,
+    "dailyMinutesDown": {
+      "2020-11-27": 18
+    }
   },
   {
     "name": "How Long Have I Been Married",
     "url": "https://howlonghaveibeenmarried.com",
+    "icon": "https://favicons.githubusercontent.com/howlonghaveibeenmarried.com",
     "slug": "how-long-have-i-been-married",
     "status": "up",
     "uptime": "100.00%",
@@ -57,10 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 345,
-    "timeDay": 860,
-    "timeWeek": 333,
-    "timeMonth": 345,
-    "timeYear": 345
+    "time": 332,
+    "timeDay": 173,
+    "timeWeek": 344,
+    "timeMonth": 332,
+    "timeYear": 332,
+    "dailyMinutesDown": {}
   }
 ]
