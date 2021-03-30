@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 948,
-    "timeDay": 792,
-    "timeWeek": 552,
-    "timeMonth": 870,
-    "timeYear": 948,
+    "time": 947,
+    "timeDay": 835,
+    "timeWeek": 607,
+    "timeMonth": 869,
+    "timeYear": 947,
     "dailyMinutesDown": {
       "2021-01-24": 56,
       "2020-11-28": 20
@@ -26,17 +26,23 @@
     "icon": "https://favicons.githubusercontent.com/jeffutter.com",
     "slug": "jeff-utter",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 323,
-    "timeDay": 763,
-    "timeWeek": 431,
-    "timeMonth": 274,
-    "timeYear": 323,
-    "dailyMinutesDown": {}
+    "uptimeYear": "99.92%",
+    "time": 325,
+    "timeDay": 559,
+    "timeWeek": 486,
+    "timeMonth": 283,
+    "timeYear": 325,
+    "dailyMinutesDown": {
+      "2021-01-24": 56,
+      "2021-01-03": 31,
+      "2020-12-22": 24,
+      "2020-11-28": 20,
+      "2020-11-27": 18
+    }
   },
   {
     "name": "POSCG",
@@ -49,11 +55,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 297,
-    "timeDay": 290,
-    "timeWeek": 453,
+    "time": 298,
+    "timeDay": 315,
+    "timeWeek": 420,
     "timeMonth": 327,
-    "timeYear": 297,
+    "timeYear": 298,
     "dailyMinutesDown": {
       "2020-11-27": 18
     }
@@ -69,11 +75,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 247,
-    "timeDay": 56,
-    "timeWeek": 227,
-    "timeMonth": 235,
-    "timeYear": 247,
+    "time": 246,
+    "timeDay": 114,
+    "timeWeek": 166,
+    "timeMonth": 231,
+    "timeYear": 246,
     "dailyMinutesDown": {
       "2021-01-03": 31,
       "2020-12-22": 24
