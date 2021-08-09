@@ -4,7 +4,7 @@
     "url": "https://judithutter.com",
     "icon": "https://favicons.githubusercontent.com/judithutter.com",
     "slug": "judith-utter",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 869,
     "timeYear": 846,
     "dailyMinutesDown": {
+      "2021-08-09": 0,
       "2021-07-29": 23,
       "2021-05-14": 50,
       "2021-01-24": 56,
