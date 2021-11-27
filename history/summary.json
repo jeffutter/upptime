@@ -11,9 +11,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
     "time": 850,
-    "timeDay": 1101,
-    "timeWeek": 657,
-    "timeMonth": 798,
+    "timeDay": 1079,
+    "timeWeek": 744,
+    "timeMonth": 806,
     "timeYear": 850,
     "dailyMinutesDown": {
       "2021-11-01": 26,
@@ -36,9 +36,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 291,
-    "timeDay": 136,
-    "timeWeek": 243,
-    "timeMonth": 244,
+    "timeDay": 101,
+    "timeWeek": 215,
+    "timeMonth": 236,
     "timeYear": 291,
     "dailyMinutesDown": {
       "2021-11-16": 32,
@@ -56,14 +56,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 303,
-    "timeDay": 149,
-    "timeWeek": 377,
-    "timeMonth": 308,
-    "timeYear": 303,
-    "dailyMinutesDown": {
-      "2020-11-27": 18
-    }
+    "time": 302,
+    "timeDay": 196,
+    "timeWeek": 333,
+    "timeMonth": 304,
+    "timeYear": 302,
+    "dailyMinutesDown": {}
   },
   {
     "name": "How Long Have I Been Married",
@@ -77,9 +75,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 261,
-    "timeDay": 130,
-    "timeWeek": 215,
-    "timeMonth": 258,
+    "timeDay": 264,
+    "timeWeek": 220,
+    "timeMonth": 252,
     "timeYear": 261,
     "dailyMinutesDown": {
       "2021-11-16": 32,
