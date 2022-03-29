@@ -36,7 +36,7 @@
     "time": 270,
     "timeDay": 121,
     "timeWeek": 136,
-    "timeMonth": 189,
+    "timeMonth": 164,
     "timeYear": 253,
     "dailyMinutesDown": {
       "2021-11-16": 32,
@@ -69,18 +69,19 @@
     "url": "https://howlonghaveibeenmarried.com",
     "icon": "https://favicons.githubusercontent.com/howlonghaveibeenmarried.com",
     "slug": "how-long-have-i-been-married",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 257,
     "timeDay": 100,
     "timeWeek": 285,
-    "timeMonth": 204,
+    "timeMonth": 202,
     "timeYear": 262,
     "dailyMinutesDown": {
+      "2022-03-29": 0,
       "2021-11-16": 32,
       "2021-08-20": 31
     }
