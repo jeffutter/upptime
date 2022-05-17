@@ -27,9 +27,9 @@
     "url": "https://jeffutter.com",
     "icon": "https://favicons.githubusercontent.com/jeffutter.com",
     "slug": "jeff-utter",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -39,6 +39,7 @@
     "timeMonth": 150,
     "timeYear": 226,
     "dailyMinutesDown": {
+      "2022-05-17": 0,
       "2022-04-14": 18,
       "2021-11-16": 32,
       "2021-08-20": 31
@@ -72,9 +73,9 @@
     "slug": "how-long-have-i-been-married",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 270,
     "timeDay": 752,
@@ -82,7 +83,6 @@
     "timeMonth": 323,
     "timeYear": 271,
     "dailyMinutesDown": {
-      "2022-05-17": 11,
       "2022-04-14": 18,
       "2021-11-16": 32,
       "2021-08-20": 31
