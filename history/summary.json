@@ -75,9 +75,9 @@
     "url": "https://howlonghaveibeenmarried.com",
     "icon": "https://icons.duckduckgo.com/ip3/howlonghaveibeenmarried.com.ico",
     "slug": "how-long-have-i-been-married",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -87,6 +87,7 @@
     "timeMonth": 306,
     "timeYear": 266,
     "dailyMinutesDown": {
+      "2022-10-27": 0,
       "2022-07-25": 15,
       "2022-04-14": 18,
       "2021-11-16": 32
