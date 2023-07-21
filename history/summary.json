@@ -6,9 +6,9 @@
     "slug": "judith-utter",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 734,
     "timeDay": 634,
@@ -16,7 +16,6 @@
     "timeMonth": 684,
     "timeYear": 740,
     "dailyMinutesDown": {
-      "2023-07-20": 9,
       "2022-11-19": 29,
       "2022-11-03": 89,
       "2022-10-28": 16,
@@ -31,9 +30,9 @@
     "slug": "jeff-utter",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 262,
     "timeDay": 171,
@@ -41,7 +40,6 @@
     "timeMonth": 209,
     "timeYear": 292,
     "dailyMinutesDown": {
-      "2023-07-20": 9,
       "2022-09-04": 17,
       "2022-08-10": 18,
       "2022-07-25": 15
@@ -72,9 +70,9 @@
     "slug": "how-long-have-i-been-married",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 261,
     "timeDay": 261,
@@ -82,7 +80,6 @@
     "timeMonth": 187,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2023-07-20": 9,
       "2022-07-25": 15
     }
   }
