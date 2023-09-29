@@ -27,18 +27,20 @@
     "url": "https://jeffutter.com",
     "icon": "https://icons.duckduckgo.com/ip3/jeffutter.com.ico",
     "slug": "jeff-utter",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 277,
-    "timeDay": 80,
-    "timeWeek": 189,
-    "timeMonth": 189,
+    "timeDay": 121,
+    "timeWeek": 186,
+    "timeMonth": 188,
     "timeYear": 285,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-29": 0
+    }
   },
   {
     "name": "POSCG",
