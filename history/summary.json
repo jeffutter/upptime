@@ -6,17 +6,16 @@
     "slug": "judith-utter",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 725,
-    "timeDay": 519,
-    "timeWeek": 710,
-    "timeMonth": 694,
+    "time": 726,
+    "timeDay": 746,
+    "timeWeek": 704,
+    "timeMonth": 699,
     "timeYear": 694,
     "dailyMinutesDown": {
-      "2023-10-31": 8,
       "2022-11-19": 29,
       "2022-11-03": 89
     }
@@ -33,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 270,
-    "timeDay": 81,
-    "timeWeek": 218,
-    "timeMonth": 180,
+    "timeDay": 128,
+    "timeWeek": 227,
+    "timeMonth": 176,
     "timeYear": 278,
     "dailyMinutesDown": {}
   },
@@ -50,10 +49,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 362,
-    "timeDay": 481,
+    "time": 361,
+    "timeDay": 180,
     "timeWeek": 289,
-    "timeMonth": 389,
+    "timeMonth": 386,
     "timeYear": 335,
     "dailyMinutesDown": {
       "2023-08-24": 24
@@ -71,10 +70,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 250,
-    "timeDay": 276,
-    "timeWeek": 144,
-    "timeMonth": 278,
-    "timeYear": 241,
+    "timeDay": 152,
+    "timeWeek": 153,
+    "timeMonth": 279,
+    "timeYear": 242,
     "dailyMinutesDown": {}
   }
 ]
