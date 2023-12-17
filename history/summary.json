@@ -6,18 +6,16 @@
     "slug": "judith-utter",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 722,
     "timeDay": 629,
     "timeWeek": 743,
     "timeMonth": 656,
     "timeYear": 684,
-    "dailyMinutesDown": {
-      "2023-12-16": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Jeff Utter",
