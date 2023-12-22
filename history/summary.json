@@ -4,18 +4,20 @@
     "url": "https://judithutter.com",
     "icon": "https://icons.duckduckgo.com/ip3/judithutter.com.ico",
     "slug": "judith-utter",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 722,
+    "time": 721,
     "timeDay": 734,
     "timeWeek": 702,
     "timeMonth": 666,
     "timeYear": 685,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-22": 0
+    }
   },
   {
     "name": "Jeff Utter",
@@ -30,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 263,
     "timeDay": 141,
-    "timeWeek": 161,
+    "timeWeek": 155,
     "timeMonth": 144,
     "timeYear": 233,
     "dailyMinutesDown": {}
@@ -48,7 +50,7 @@
     "uptimeYear": "99.98%",
     "time": 349,
     "timeDay": 144,
-    "timeWeek": 142,
+    "timeWeek": 153,
     "timeMonth": 252,
     "timeYear": 329,
     "dailyMinutesDown": {
@@ -69,7 +71,7 @@
     "uptimeYear": "100.00%",
     "time": 234,
     "timeDay": 126,
-    "timeWeek": 125,
+    "timeWeek": 127,
     "timeMonth": 123,
     "timeYear": 189,
     "dailyMinutesDown": {}
