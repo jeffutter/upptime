@@ -4,7 +4,7 @@
     "url": "https://judithutter.com",
     "icon": "https://icons.duckduckgo.com/ip3/judithutter.com.ico",
     "slug": "judith-utter",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
@@ -16,6 +16,7 @@
     "timeMonth": 670,
     "timeYear": 684,
     "dailyMinutesDown": {
+      "2023-12-24": 0,
       "2023-12-22": 25
     }
   },
