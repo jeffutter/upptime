@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 688,
-    "timeDay": 327,
-    "timeWeek": 649,
-    "timeMonth": 642,
-    "timeYear": 683,
+    "time": 687,
+    "timeDay": 403,
+    "timeWeek": 594,
+    "timeMonth": 630,
+    "timeYear": 682,
     "dailyMinutesDown": {
       "2023-12-26": 61,
       "2023-12-24": 35,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 250,
-    "timeDay": 189,
-    "timeWeek": 192,
-    "timeMonth": 168,
+    "timeDay": 210,
+    "timeWeek": 203,
+    "timeMonth": 172,
     "timeYear": 201,
     "dailyMinutesDown": {}
   },
@@ -51,9 +51,9 @@
     "uptimeMonth": "99.17%",
     "uptimeYear": "99.91%",
     "time": 321,
-    "timeDay": 449,
-    "timeWeek": 265,
-    "timeMonth": 278,
+    "timeDay": 399,
+    "timeWeek": 300,
+    "timeMonth": 286,
     "timeYear": 328,
     "dailyMinutesDown": {
       "2024-03-03": 364,
@@ -68,17 +68,15 @@
     "slug": "how-long-have-i-been-married",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 219,
-    "timeDay": 428,
-    "timeWeek": 255,
-    "timeMonth": 179,
+    "time": 220,
+    "timeDay": 471,
+    "timeWeek": 279,
+    "timeMonth": 184,
     "timeYear": 182,
-    "dailyMinutesDown": {
-      "2024-03-16": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
