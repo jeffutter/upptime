@@ -26,19 +26,19 @@
     "url": "https://jeffutter.com",
     "icon": "https://icons.duckduckgo.com/ip3/jeffutter.com.ico",
     "slug": "jeff-utter",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.82%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 195,
-    "timeDay": 776,
-    "timeWeek": 357,
-    "timeMonth": 250,
+    "timeDay": 567,
+    "timeWeek": 334,
+    "timeMonth": 247,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2024-09-11": 0
+      "2024-09-11": 31
     }
   },
   {
