@@ -4,19 +4,19 @@
     "url": "https://judithutter.com",
     "icon": "https://icons.duckduckgo.com/ip3/judithutter.com.ico",
     "slug": "judith-utter",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 721,
-    "timeDay": 687,
-    "timeWeek": 702,
-    "timeMonth": 999,
+    "timeDay": 640,
+    "timeWeek": 688,
+    "timeMonth": 987,
     "timeYear": 725,
     "dailyMinutesDown": {
-      "2025-01-29": 0
+      "2025-01-29": 9
     }
   },
   {
