@@ -6,18 +6,16 @@
     "slug": "judith-utter",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 721,
-    "timeDay": 640,
-    "timeWeek": 688,
-    "timeMonth": 987,
-    "timeYear": 725,
-    "dailyMinutesDown": {
-      "2025-01-29": 9
-    }
+    "timeDay": 614,
+    "timeWeek": 676,
+    "timeMonth": 978,
+    "timeYear": 726,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Jeff Utter",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 192,
-    "timeDay": 169,
-    "timeWeek": 173,
-    "timeMonth": 178,
+    "timeDay": 184,
+    "timeWeek": 176,
+    "timeMonth": 179,
     "timeYear": 202,
     "dailyMinutesDown": {
       "2024-09-11": 31
@@ -50,10 +48,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 474,
-    "timeDay": 280,
-    "timeWeek": 1375,
-    "timeMonth": 697,
+    "time": 473,
+    "timeDay": 262,
+    "timeWeek": 1396,
+    "timeMonth": 700,
     "timeYear": 528,
     "dailyMinutesDown": {
       "2024-10-28": 26,
@@ -72,9 +70,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 185,
-    "timeDay": 209,
-    "timeWeek": 153,
-    "timeMonth": 135,
+    "timeDay": 160,
+    "timeWeek": 146,
+    "timeMonth": 137,
     "timeYear": 186,
     "dailyMinutesDown": {}
   }
