@@ -42,9 +42,9 @@
     "url": "$SECRET_SITE_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "poscg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -54,6 +54,7 @@
     "timeMonth": 327,
     "timeYear": 571,
     "dailyMinutesDown": {
+      "2025-04-19": 0,
       "2024-10-28": 26
     }
   },
