@@ -65,19 +65,19 @@
     "url": "https://howlonghaveibeenmarried.com",
     "icon": "https://icons.duckduckgo.com/ip3/howlonghaveibeenmarried.com.ico",
     "slug": "how-long-have-i-been-married",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 203,
-    "timeDay": 196,
-    "timeWeek": 223,
-    "timeMonth": 226,
-    "timeYear": 220,
+    "timeDay": 158,
+    "timeWeek": 208,
+    "timeMonth": 222,
+    "timeYear": 219,
     "dailyMinutesDown": {
-      "2025-05-07": 0
+      "2025-05-07": 7
     }
   }
 ]
