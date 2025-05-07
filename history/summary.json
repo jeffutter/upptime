@@ -22,19 +22,19 @@
     "url": "https://jeffutter.com",
     "icon": "https://icons.duckduckgo.com/ip3/jeffutter.com.ico",
     "slug": "jeff-utter",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 200,
-    "timeDay": 248,
-    "timeWeek": 261,
-    "timeMonth": 220,
+    "timeDay": 214,
+    "timeWeek": 251,
+    "timeMonth": 218,
     "timeYear": 212,
     "dailyMinutesDown": {
-      "2025-05-07": 0,
+      "2025-05-07": 7,
       "2024-09-11": 31
     }
   },
@@ -66,19 +66,19 @@
     "url": "https://howlonghaveibeenmarried.com",
     "icon": "https://icons.duckduckgo.com/ip3/howlonghaveibeenmarried.com.ico",
     "slug": "how-long-have-i-been-married",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 203,
-    "timeDay": 227,
-    "timeWeek": 232,
-    "timeMonth": 228,
+    "timeDay": 196,
+    "timeWeek": 223,
+    "timeMonth": 226,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2025-05-07": 7
+      "2025-05-07": 15
     }
   }
 ]
