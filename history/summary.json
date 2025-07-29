@@ -4,9 +4,9 @@
     "url": "https://judithutter.com",
     "icon": "https://icons.duckduckgo.com/ip3/judithutter.com.ico",
     "slug": "judith-utter",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 691,
     "timeMonth": 664,
     "timeYear": 735,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-29": 0
+    }
   },
   {
     "name": "Jeff Utter",
@@ -44,7 +46,7 @@
     "slug": "poscg",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "39.34%",
+    "uptimeDay": "65.20%",
     "uptimeWeek": "83.53%",
     "uptimeMonth": "93.03%",
     "uptimeYear": "98.91%",
