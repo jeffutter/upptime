@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 700,
-    "timeDay": 483,
-    "timeWeek": 541,
-    "timeMonth": 697,
-    "timeYear": 688,
+    "timeDay": 284,
+    "timeWeek": 504,
+    "timeMonth": 684,
+    "timeYear": 687,
     "dailyMinutesDown": {}
   },
   {
@@ -22,16 +22,16 @@
     "url": "https://jeffutter.com",
     "icon": "https://icons.duckduckgo.com/ip3/jeffutter.com.ico",
     "slug": "jeff-utter",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "99.95%",
     "time": 272,
-    "timeDay": 730,
-    "timeWeek": 415,
-    "timeMonth": 541,
+    "timeDay": 106,
+    "timeWeek": 370,
+    "timeMonth": 529,
     "timeYear": 298,
     "dailyMinutesDown": {
       "2025-08-12": 46,
@@ -39,7 +39,7 @@
       "2026-03-11": 59,
       "2026-05-06": 45,
       "2026-05-19": 37,
-      "2026-06-02": 5
+      "2026-06-02": 13
     }
   },
   {
@@ -53,10 +53,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.55%",
-    "time": 577,
-    "timeDay": 459,
-    "timeWeek": 327,
-    "timeMonth": 396,
+    "time": 576,
+    "timeDay": 350,
+    "timeWeek": 330,
+    "timeMonth": 394,
     "timeYear": 566,
     "dailyMinutesDown": {
       "2025-07-21": 841,
@@ -76,24 +76,24 @@
     "url": "https://howlonghaveibeenmarried.com",
     "icon": "https://icons.duckduckgo.com/ip3/howlonghaveibeenmarried.com.ico",
     "slug": "how-long-have-i-been-married",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.96%",
-    "time": 302,
-    "timeDay": 551,
-    "timeWeek": 541,
-    "timeMonth": 494,
-    "timeYear": 315,
+    "time": 301,
+    "timeDay": 89,
+    "timeWeek": 477,
+    "timeMonth": 482,
+    "timeYear": 314,
     "dailyMinutesDown": {
       "2025-08-12": 46,
       "2025-10-20": 46,
       "2026-02-11": 23,
       "2026-03-11": 40,
       "2026-05-19": 37,
-      "2026-06-02": 0
+      "2026-06-02": 8
     }
   }
 ]
