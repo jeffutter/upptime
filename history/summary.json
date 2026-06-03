@@ -24,10 +24,10 @@
     "slug": "jeff-utter",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.96%",
     "time": 272,
     "timeDay": 106,
     "timeWeek": 370,
@@ -38,8 +38,7 @@
       "2025-10-20": 46,
       "2026-03-11": 59,
       "2026-05-06": 45,
-      "2026-05-19": 37,
-      "2026-06-02": 13
+      "2026-05-19": 37
     }
   },
   {
@@ -78,9 +77,9 @@
     "slug": "how-long-have-i-been-married",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
     "time": 301,
     "timeDay": 89,
@@ -92,8 +91,7 @@
       "2025-10-20": 46,
       "2026-02-11": 23,
       "2026-03-11": 40,
-      "2026-05-19": 37,
-      "2026-06-02": 8
+      "2026-05-19": 37
     }
   }
 ]
