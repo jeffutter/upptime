@@ -48,16 +48,16 @@
     "url": "$SECRET_SITE_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "poscg",
-    "status": "down",
-    "uptime": "99.56%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.86%",
+    "status": "up",
+    "uptime": "99.55%",
+    "uptimeDay": "79.59%",
+    "uptimeWeek": "97.08%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "98.80%",
     "time": 517,
-    "timeDay": 274,
-    "timeWeek": 245,
-    "timeMonth": 281,
+    "timeDay": 290,
+    "timeWeek": 253,
+    "timeMonth": 282,
     "timeYear": 442,
     "dailyMinutesDown": {
       "2025-10-20": 918,
@@ -68,7 +68,7 @@
       "2026-04-19": 469,
       "2026-07-20": 869,
       "2026-07-19": 597,
-      "2026-09-30": 0
+      "2026-09-30": 294
     }
   },
   {
